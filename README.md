@@ -25,5 +25,8 @@ Script for finding and enumerating of all NSLog format strings that is used in i
 
 Usage: 
 ```
+[0x00000000]> aae
+[0x00000000]> aac
+[0x00000000]> e asm.emu = true
 [0x00000000]> #!pipe mono ./nslogstrs.exe`
 ```
